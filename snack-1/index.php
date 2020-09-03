@@ -5,23 +5,23 @@ Creiamo un array contenente le partite di basket di un'ipotetica tappa del calen
 
  $matches = [
 
-   'match1' => [
+    [
      'team_home' => 'Chicago Bulls',
      'home_points' => 115,
      'team_away' => 'Utah Jazz',
      'away_points' => 98
     ],
-    'match2' => [
-      'team_home' => 'LA Lakers',
-      'home_points' => 102,
-      'team_away' => 'LA Clippers',
-      'away_points' => 90
+    [
+     'team_home' => 'LA Lakers',
+     'home_points' => 102,
+     'team_away' => 'LA Clippers',
+     'away_points' => 90
     ],
-    'match3' => [
-      'team_home' => 'Detroit Pistons',
-      'home_points' => 96,
-      'team_away' => 'Orlando Magic',
-      'away_points' => 105
+    [
+     'team_home' => 'Detroit Pistons',
+     'home_points' => 96,
+     'team_away' => 'Orlando Magic',
+     'away_points' => 105
     ]
 
  ];
